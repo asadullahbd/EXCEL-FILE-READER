@@ -1,6 +1,6 @@
 import React from 'react'
 import MenuBar from './components/MenuBar'
-import ExcelFileReader from './components/excelFileReader'
+import ExcelFileReader from './components/ExcelFileReader'
 
 const App = () => {
   return (
